@@ -1,0 +1,227 @@
+body{
+    background-color:rgb(243, 205, 211);  
+    margin: 0px auto;  
+  }
+
+  /*Header Start*/
+
+  .btn {
+      margin-left: 90%;
+  }
+
+  .head1 {
+      float: left;
+
+  }
+
+  .main_header {
+
+      width: 100%;
+      height: 60px;
+      background-color: rgb(90, 16, 16);
+  }
+
+  #devo {
+      color: white;
+      margin-left: 20px;
+  }
+
+  #btn {
+      float: left;
+      margin-top: 10px;
+      height: 60%;
+      margin-right: 2px;
+      border-radius: 5px;
+      color: white;
+  }
+
+  .btn1 {
+      background-color: rgb(52, 143, 52);
+  }
+
+  .btn2 {
+      background-color: rgb(71, 157, 190);
+  }
+  .btn button{
+      cursor: pointer;
+  }
+/*Header End*/
+
+/* Filter and Content starts*/
+ 
+.main-container {
+  width: 90%;
+  margin-left: 5%;
+  margin-top: 5px;
+  display: inline-block;
+}
+
+.main-filter {
+  width: 20%;
+  height: 500px;
+  margin-left: 10%;
+  margin-top: 30px;
+  float: left;
+  border: 2px solid gray;
+  border-radius: 5px;
+  box-shadow: 10px -10px 4px rgb(187, 150, 150);
+}
+
+.main-content {
+  width: 62%;
+  margin-left: 5%;
+  margin-top: 10px;
+  float: left;
+}
+
+.main-filter p {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.input {
+  margin-left: 30px;
+}
+
+.content-div {
+
+  width: 100%;
+  height: 250px;
+  margin-top: 10px;
+  box-shadow: 3px 3px 7px gray;
+}
+
+.image {
+  width: 40%;
+  height: 80%;
+  float: left;
+}
+
+.image img {
+  margin: 5%;
+  border-radius: 15px;
+}
+
+.text {
+  width: 56%;
+  height: 100%;
+  float: left;
+  margin-left: 4%;
+  line-height: 3px;
+  margin-top: 10px;
+}
+
+#btn1 {
+  background-color: #34495E;
+  border: none;
+  padding: 5px;
+  margin-right: 3px;
+  border-radius: 5px;
+  color: white;
+}
+
+#btn2 {
+  background-color: green;
+  border: none;
+  padding: 5px;
+  border-radius: 5px;
+  color: white;
+}
+
+#btn3 {
+  background-color: orange;
+  margin-top: 30px;
+  border: none;
+  padding: 5px;
+  margin-right: 3px;
+  border-radius: 5px;
+  color: white;
+}
+
+#btn4 {
+  background-color: darkcyan;
+  margin-top: 30px;
+  border: none;
+  padding: 5px;
+  border-radius: 5px;
+  color: white;
+}
+
+.text h4 {
+  font-size: 20px;
+  color: #1B4F72;
+}
+
+.text p {
+  color: #34495E;
+  font-weight: bold;
+}
+
+.main-filter p {
+  color: #34495E;
+}
+
+.input span {
+  color: #1B4F72;
+  font-weight: bold;
+}
+
+.checked {
+  color: orange;
+}
+
+.unchecked {
+  color: white;
+}
+.button input{
+  cursor: pointer;
+}
+/*Filter And Content End*/
+
+/*Footer Start*/   
+ 
+.footer {
+    width: 100%;
+    height: 200px;
+    border: 1px solid red;
+    text-align: center;
+    background-color: rgb(90, 16, 16);
+    margin-top: 50px;
+    color: white;
+    border-right: 4px white solid;
+
+}
+
+.foot {
+    width: 33.25%;
+    float: left;
+    border-right: 1px solid white;
+    height:60px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.copy {
+    text-align: center;
+    font-weight: bold;
+}
+.logo1{
+    float:left;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+.logo2{
+    margin-left: 630px;
+    float:left;
+   
+}
+.tile-bold{
+    font-weight: bold;
+}
+.foot1{
+    border:none;
+}
+/*Footer End*/
